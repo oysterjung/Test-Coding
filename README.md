@@ -16,4 +16,4 @@ function solution() {
 
 ### ❔ review
 
-- 형식상 넣어둔거고 자유롭게 작성하시면 될 것 같습니다!
+- 
